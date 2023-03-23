@@ -4,6 +4,8 @@
 In this project, we will be working on detecting and counting vehicles in a given image or a video. We will be using OpenCV for image processing and Haar cascade which is used for object detection. We can also create our own customized haar cascade classifier.
 
 
+![ezgif-5-5085e80929](https://user-images.githubusercontent.com/35767074/227171486-4c78a62c-4c89-41c0-b65e-53e24514dd6a.gif)
+
 
 ## Step to run application
 Step 1: Create the copy of the project. 
